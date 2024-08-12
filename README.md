@@ -1,6 +1,5 @@
-# en
-## [English](http://appdemocracy.github.io/) [Farsi](http://appdemocracy.github.io/fa/) [Deutsch](http://appdemocracy.github.io/en/) 
-## [references](http://appdemocracy.github.io/Reference/)
+## [English](http://appdemocracy.github.io/en/) [Farsi](http://appdemocracy.github.io/fa/) [Deutsch](https://appdemocracy.github.io/de/) 
+## [references](https://appdemocracy.github.io/reference/)
 
 Please consider the following questions and note the gray text for additional information.
 1.	Better smartphones, a cure for cancer and the fight against hunger in Africa if slavery persisted?
